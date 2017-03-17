@@ -1,3 +1,3 @@
 # Serial Comm 
 
-Simple project to estabilish communication with RS232 devices on Linux and Windows.
+Simple project to establish communication with RS232 devices on Linux and Windows.
